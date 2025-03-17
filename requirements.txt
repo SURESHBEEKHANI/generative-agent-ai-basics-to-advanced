@@ -19,3 +19,5 @@ faiss-cpu
 sentence_transformers
 youtube_search
 yfinance
+duckduckgo-search
+langgraph
