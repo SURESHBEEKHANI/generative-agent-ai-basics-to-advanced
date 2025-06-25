@@ -7,3 +7,4 @@ langchain_tavily
 ipykernel
 langchain-mcp-adapters
 mcp
+langgraph-cli[inmem]
